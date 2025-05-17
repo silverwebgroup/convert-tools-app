@@ -2,7 +2,7 @@
 
 🌐 [Live demo – converttools.net](https://converttools.net)
 
-**ConvertTools** is a fast, modern platform that provides powerful tools for unit conversion, file conversion, and online calculators — all in one place. Designed to be intuitive and accessible, it empowers professionals, students, and casual users alike.
+**ConvertTools** is a fast, modern platform that provides powerful tools for unit conversion — all in one place. Designed to be intuitive and accessible, it empowers professionals, students, and casual users alike.
 
 ![ConvertTools Screenshot](https://converttools.net/images/social.png)
 
