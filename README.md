@@ -10,8 +10,8 @@
 
 ## ✨ Features
 
-- ⚡ Instant unit & file conversions
-- 🧮 Practical calculators for daily and scientific use
+- ⚡ Instant unit conversions
+- 🧮 Practical converters for daily and scientific use
 - 📱 Mobile-first & responsive design
 - 🌍 Clean, minimalist UI focused on clarity and speed
 - 🧩 Expandable architecture – new tools added regularly
